@@ -1,0 +1,54 @@
+body{
+    background-image: url(http://www.hdwallpapers.in/walls/abstract_color_background_picture_8016-wide.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+h1 {
+    text-align:center;
+    color:lightblue;
+}
+img {
+    display:block;
+     width: 400px;
+     margin-left:auto;
+     margin-right: auto;
+}
+h2 {
+    font-family: 'Anton', sans-serif;
+    text-align:center;
+}
+.Pizza {
+    font-family: 'Anton', sans-serif;
+    text-align:center;
+}
+.LaRosas {
+    width: 600px;
+}
+h3 {
+    font-family: 'Kaushan Script', cursive;
+    text-align:center;
+}
+.Chucky {
+    font-family: 'Kaushan Script', cursive;
+    text-align:center;
+}
+h4{
+    font-family: 'Noto Serif', serif;
+    text-align:center;
+}
+.Pie {
+     font-family:'Noto Serif', serif;
+     text-align:center;
+}
+h5{
+    font-family:  'Satisfy', cursive;
+    text-align : center;
+    font-size:100%;
+}
+.Bday {
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    font-size: 100%;
+    
+}
+    
